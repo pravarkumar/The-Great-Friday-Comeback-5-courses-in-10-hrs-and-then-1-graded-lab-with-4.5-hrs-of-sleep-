@@ -5,7 +5,7 @@ Work 2 : Finish the theory for CS 228 finish the DPLL and CDCL part and also all
 
 Work 3 : Finish the little left over ISA part and finish the full tutorial + finish the digital logic things like the gcd algo etc controller
 
-Work 4 : Finish the TASK for CS 215 and then also we need to finish the whole theory today no matter what + start finishing the tutorial sheets 
+Work 4 : Finish the TASK for CS 215 and then also we need to finish the whole theory today no matter what + start finishing the tutorial sheets +                Sheldon Ross latest version 
 
 Work 5 : We need to finish the theory part of DSA and fully grind Leetcode for Binary Search Tree , Binary Tree and also for Heap 
 
