@@ -1,0 +1,11 @@
+Work 1 : Finish the whole outlab + see the previous lab exam + finish the theory of the next lab + all the PYQ's on it + past years lab also finish 
+
+Work 2 : Finish the theory for CS 228 finish the DPLL and CDCL part and also all the tuts and PYQ which are there we need to finish the Midsem 
+         problem sheet properly and also see the github + tutuorials of this year and also the past years for anything important + TSC.
+
+Work 3 : Finish the little left over ISA part and finish the full tutorial + finish the digital logic things like the gcd algo etc controller
+
+Work 4 : Finish the TASK for CS 215 and then also we need to finish the whole theory today no matter what + start finishing the tutorial sheets 
+
+Work 5 : We need to finish the theory part of DSA and fully grind Leetcode for Binary Search Tree , Binary Tree and also for Heap 
+
